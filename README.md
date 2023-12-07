@@ -17,7 +17,7 @@
 
 [영남이공대학교](http://www.ync.ac.kr)
 
-[프로필이미지](./snowflake.png)
+![프로필이미지](./snowflake.png)
 
 <!--
 **Gimban/Gimban** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
